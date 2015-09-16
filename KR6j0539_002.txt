@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:26.334142
+#+DATE: 2015-08-30 20:34:26.971115
 #+TITLE: 七曜攘災決
 #+PROPERTY: CBETA_ID T21n1308
 #+PROPERTY: ID KR6j0539
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1308
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0539_T_000-0426b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0539_T_002-0442b> ¶
 #+PROPERTY: JUAN 2
-
- 攘災決卷中¶
+攘災決卷中¶
 
 羅睺遏羅師者。一名黃幡。一名蝕神頭。一名¶
 複。一名太陽首。常隱行不見。逢日月則蝕。朔
@@ -633,11 +632,7 @@
 ¶
 ¶
 
-五星臨十二宮吉凶法
-:PROPERTIES:
-:head: 五星臨十二宮吉凶法
-:END:
-¶
+五星臨十二宮吉凶法¶
 
 火至命位冤強損財。僕大血瘡并馬驚　水
 <pb:KR6j0539_T_002-0451c>¶
@@ -691,7 +686,7 @@
 一云有辰厄。¶
 
 火至男女口舌損財畜。火厄憂妻男女衰¶
-　水至夫妻有損。口舌慎𨒤遺　木至喜加官¶
+　水至夫妻有損。口舌慎[這-言+此]遺　木至喜加官¶
 子姪益職。財祿儀獄　金至利官得財祿。唯¶
 女人有口舌譏　土至愁獄訟。為事不成子¶
 孫免。¶
