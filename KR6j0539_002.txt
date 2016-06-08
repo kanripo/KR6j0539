@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:26.334142
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:25
 #+TITLE: 七曜攘災決
 #+PROPERTY: CBETA_ID T21n1308
 #+PROPERTY: ID KR6j0539
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1308
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0539_T_000-0426b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0539_T_002-0442b> ¶
 #+PROPERTY: JUAN 2
-
- 攘災決卷中¶
+攘災決卷中¶
 
 羅睺遏羅師者。一名黃幡。一名蝕神頭。一名¶
 複。一名太陽首。常隱行不見。逢日月則蝕。朔
@@ -405,9 +404,9 @@
 　戌名降婁¶
 　亥名諏訾
 　子名玄枵
-　丑名星紀
+　丑名星紀」
 #+END_VERSE
-」¶
+¶
 
 金其神是女人著黃衣。頭戴鷄冠手彈琵琶。¶
 到人命宿。宜轉大般涅槃經般若經大集經¶
@@ -633,11 +632,7 @@
 ¶
 ¶
 
-五星臨十二宮吉凶法
-:PROPERTIES:
-:head: 五星臨十二宮吉凶法
-:END:
-¶
+* 五星臨十二宮吉凶法¶
 
 火至命位冤強損財。僕大血瘡并馬驚　水
 <pb:KR6j0539_T_002-0451c>¶
